@@ -1,6 +1,6 @@
 # Ettizan
 
-![Ettizan Logo](images/Ettizan_logo_enhanced22.png)  
+![Ettizan Logo](Ettizan_logo_enhanced22.png)  
 
 ## 📌 About Ettizan  
 Ettizan is a personalized AI-powered mobile application designed to assist individuals in managing chronic diseases through customized nutrition and fitness plans. By using advanced AI, the application analyzes user-specific health data to provide tailored recommendations, ensuring a more effective and user-friendly experience.
