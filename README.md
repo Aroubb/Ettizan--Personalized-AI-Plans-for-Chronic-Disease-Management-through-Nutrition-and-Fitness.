@@ -49,7 +49,7 @@ The system follows a layered architecture with the following components:
 ### 4. **Database Layer**
 - Stores user data securely, including user profiles, recommendations, favorites, and feedback.
 
-![SystemArchitecture](images/diagrams/SystemArchitecture.png)  
+![SystemArchitecture](SystemArchitecture.png)  
 
 
 ## 🗂️ Entity-Relationship Diagram
@@ -75,7 +75,7 @@ The **ER Diagram** visually represents the relationships between the main entiti
 - **User → History**: Logs daily tasks and progress.
 
 This diagram illustrates how the app manages and uses user data for personalized recommendations.
-![SystemArchitecture](images/diagrams/ERdiagram.png)  
+![SystemArchitecture](ERdiagram.png)  
 
 
 ## Activity Diagram: Requesting a Plan (Meal and Exercise Plan)
@@ -91,33 +91,9 @@ The activity diagram outlines the steps a user follows when requesting a persona
 
 The flow also includes decision points for input validation and system responses, ensuring smooth interaction from start to finish.
 
-![ActivityDiagram](images/diagrams/ActivityDiagram.png)  
+![ActivityDiagram](ActivityDiagram.png)  
 
 
-## 🏗️ Project Setup  
-
-### Prerequisites  
-- Install Flutter SDK ([Download Flutter](https://flutter.dev/docs/get-started/install))  
-- Set up a Firebase project ([Firebase Console](https://console.firebase.google.com/))  
-- Python environment for AI models  
-
-### Installation Steps  
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/your-repo/ettizan.git
-   cd ettizan
-2. **Install dependencies:**  
-   ```bash
-   flutter pub get
-   ```
-3. **Set up Firebase:**  
-   - Create a Firebase project and enable Firestore & Authentication.  
-   - Add `google-services.json` (Android) and `GoogleService-Info.plist` (iOS).  
-
-4. **Run the application:**  
-   ```bash
-   flutter run
-   ```
 
 ## 📌 Why Ettizan?  
 
@@ -134,7 +110,7 @@ Most existing health and fitness apps provide generic solutions that do not cate
 - **Integration with Wearables:** Support data sync from smartwatches and fitness trackers.  
 
 ## 📸 App Screenshots
-![EttizanScreens](images/diagrams/EttizanScreens.pdf) 
+![EttizanScreens](EttizanScreens.pdf) 
 
 
 ## 📬 Contact  
