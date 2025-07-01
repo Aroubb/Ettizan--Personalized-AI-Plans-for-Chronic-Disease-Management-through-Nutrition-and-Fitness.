@@ -125,7 +125,7 @@ For inquiries or contributions, contact us at **Ettizanapp@gmail.com**.
 
 
 ##  Supervisor
-- Dr. Raad Alturki
+- **Dr. Raad Alturki**
 
 
 
